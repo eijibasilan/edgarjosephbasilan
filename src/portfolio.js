@@ -123,16 +123,6 @@ export const skillGroups = [
 
 export const experience = [
   {
-    period: 'August 2026 – Present',
-    position: 'Full-Stack Developer',
-    organization: 'Xceler8 Inc.',
-    highlights: [
-      'Contributing to an HRIS, Payroll, and Daily Time Record (DTR) system.',
-      'Implemented an AI chatbot using retrieval-augmented generation (RAG) and OCR.',
-      'Developing a payrun flow to synchronize payroll journal entries with SAP Business One (SAP B1).',
-    ],
-  },
-  {
     period: 'February 2026 – May 2026',
     position: 'SAP ABAP Developer Intern',
     organization: 'Accenture Academy',
@@ -146,7 +136,7 @@ export const experience = [
   },
   {
     period: '2023 – Present',
-    position: 'Freelance Software Developer',
+    position: 'Freelance Full-Stack Developer',
     organization: 'Independent',
     highlights: [
       'Gathered client requirements and translated business needs into technical designs.',
@@ -159,8 +149,8 @@ export const experience = [
 
 export const education = [
   {
-    period: '2022 – 2026',
-    position: 'Bachelor of Science in Information Technology · Cum Laude',
+    period: '2023 – Present',
+    position: 'Bachelor of Science in Information Technology',
     organization: 'STI College of Novaliches',
     highlights: [],
   },
@@ -170,6 +160,7 @@ export const certifications = [
   { name: 'SAP Certified – Back-End Developer, ABAP Cloud', issuer: 'SAP', date: 'May 2026', note: 'Credly verified' },
   { name: 'SAP Certified – Implementation Consultant, End-to-End Business Processes for SAP Business Suite', issuer: 'SAP', date: 'March 2026', note: 'Credly verified' },
   { name: 'Accenture Technology Academy – Certificate of Completion, SAP ABAP', issuer: 'Accenture Technology Academy', date: 'May 2026', note: '' },
+  { name: 'The Complete Full-Stack Web Development Bootcamp', issuer: 'Udemy · Dr. Angela Yu', date: '', note: 'Certificate of completion' },
   { name: 'SAP ABAP Platform Fundamentals – Record of Achievement', issuer: 'SAP Learning', date: 'March 2026', note: 'Credly verified' },
   { name: 'Building Data Models with ABAP Dictionary & CDS – Intermediate', issuer: 'SAP Learning', date: 'April 2026', note: 'Course completion' },
   { name: 'Developing UIs with SAPUI5 – Intermediate', issuer: 'SAP Learning', date: 'April 2026', note: 'Course completion' },
@@ -190,7 +181,7 @@ export const contact = {
 
 export const profile = {
   name: 'Edgar Joseph Basilan',
-  role: 'Full-Stack Developer',
+  role: 'Freelance Full-Stack Developer',
   location: contact.location,
-  summary: 'Full-stack developer building web applications and business systems. At Xceler8 Inc., I’m working on an HRIS, Payroll, and Daily Time Record (DTR) system, including an AI chatbot using RAG and OCR and a payrun flow that synchronizes journal entries with SAP Business One (SAP B1).',
+  summary: 'Freelance full-stack developer building web applications and business systems. I turn client requirements into custom solutions, from point-of-sale and inventory platforms to service booking, learning, and rental management systems.',
 }
